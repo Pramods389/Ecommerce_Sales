@@ -29,17 +29,16 @@ The dataset used was manually generated with typical data issues such as:
 * `Orders`
 * `Amount`
 * `Product_Category` *(generated)*
-* `Product_ID` *(generated)*
 
 ## 🧹 Step 1: Data Cleaning
 
-* Converted `Age` column to integers
+* Converted `Age` column to integers.
 * Handled missing values:
 
-  * Replaced missing `Gender` with `Undefined`
-  * Filled missing `Orders` with the column mean
-* Converted `Amount` from string to numeric
-* Generated `Product_Category` and `Product_ID` using `random.choice()` with `np.random.seed(42)` to ensure consistency
+  * Replaced missing `Gender` with `Not specified`.
+  * Filled missing `Orders` with the column mean.
+* Converted `Amount` from string to numeric.
+* Generated `Product_Category` using `random.choice()` with `np.random.seed(42)` to ensure consistency.
 
 ## 📊 Step 2: Data Visualization
 
@@ -61,13 +60,17 @@ The dataset used was manually generated with typical data issues such as:
 
 * Bar chart of states with highest sales
 
-#### 5. Sales by Occupation (Horizontal Bar Chart)
+#### 5. Top 3 Revenue Generating Occupations (Horizontal Bar Chart)
 
 * Visualizes which occupations contribute more to revenue
 
 #### 6. Age vs Purchase Amount (Scatter Plot)
 
 * Shows correlation between customer age and amount spent
+
+#### 7. TOP 5 Product Category by Sales(Bar Plot)
+
+* Compares total sales between all the available Product Categories and extract the TOP 5.
 
 ## 📦 Libraries Used
 
@@ -77,12 +80,11 @@ The dataset used was manually generated with typical data issues such as:
 
 ## 📌 Key Insights
 
-* One gender group spent more than others
-* Customers in a few states dominate the revenue
-* Certain age groups and occupations tend to spend more
+* Female gender group spent more than others.
+* Customers in states like Karnataka, Maharashtra and Tamil Nadu dominate the revenue.
+* Customers within age groups 35-40 contribute to the sales in major way.
+* Customers who are working in fields like Engineering tend to spend more.
 
 ## ✍️ Author
 
 **Pramod S**
-Email: *\[your email here]*
-GitHub: \[your GitHub link here]
