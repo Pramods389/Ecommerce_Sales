@@ -1,5 +1,3 @@
-# Ecommerce_Sales Analysis
-
 # E-Commerce Customer Sales Analysis
 
 This project is an exploratory data analysis (EDA) on an e-commerce dataset consisting of 1,000 records. The dataset contains customer demographics and purchase behavior. The project was carried out using **Pandas**, **NumPy**, and **Matplotlib**.
