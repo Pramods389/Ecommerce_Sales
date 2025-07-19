@@ -1,0 +1,1031 @@
+Customer_ID,Gender,Age,State,Occupation,Orders,Amount
+CUST1000,f,49,delhi,Engineer,7,Three Hundred
+CUST1001,,22,maharastra,,8,500
+CUST1002,f,48,Delhi,Teacher,9,500
+CUST1003,,24,Delhi,Lawyer,9,500
+CUST1004,,22,KA,,9,500
+CUST1005,M,27,,engineer,,500
+CUST1006,,30,delhi,engineer,,
+CUST1007,Male,39,Karnataka,Engineer,5,
+CUST1008,Male,29,Delhi,,6,300
+CUST1009,M,37,,Artist,7,500
+CUST1010,,21,KA,engineer,7,100
+CUST1011,Male,45,,Engineer,,100
+CUST1012,,,Karnataka,engineer,,Three Hundred
+CUST1013,F,41,delhi,,4,500
+CUST1014,,45,maharastra,Doctor,8,100
+CUST1015,,32,Tamil Nadu,Teacher,6,Three Hundred
+CUST1016,M,46,Delhi,Doctor,4,500
+CUST1017,Male,34,Karnataka,engineer,8,200
+CUST1018,,39,KA,Lawyer,4,200
+CUST1019,Female,29,Delhi,Engineer,1,Three Hundred
+CUST1020,F,33,,engineer,2,100
+CUST1021,Female,30,Karnataka,Engineer,2,300
+CUST1022,M,38,,engineer,7,500
+CUST1023,Male,52,Karnataka,Artist,10,500
+CUST1024,,22,Maharashtra,Engineer,1,
+CUST1025,Female,24,delhi,Lawyer,,200
+CUST1026,Male,26,Karnataka,engineer,9,300
+CUST1027,f,32,Delhi,Artist,6,500
+CUST1028,M,38,TN,Teacher,2,Three Hundred
+CUST1029,Female,43,TN,Doctor,10,200
+CUST1030,f,36,TN,,9,100
+CUST1031,Male,,Tamil Nadu,Engineer,10,
+CUST1032,M,43,maharastra,Engineer,,Three Hundred
+CUST1033,Male,21,Delhi,Teacher,6,Three Hundred
+CUST1034,Male,53,Maharashtra,Artist,8,200
+CUST1035,M,38,Tamil Nadu,Artist,1,500
+CUST1036,Female,57,TN,Artist,6,200
+CUST1037,f,20,,engineer,8,100
+CUST1038,f,58,TN,Teacher,1,
+CUST1039,Female,24,Karnataka,,2,Three Hundred
+CUST1040,f,44,,Teacher,10,Three Hundred
+CUST1041,F,59,Karnataka,Teacher,6,500
+CUST1042,,39,delhi,Doctor,10,Three Hundred
+CUST1043,,,,Teacher,5,200
+CUST1044,F,48,maharastra,,5,500
+CUST1045,,39,Maharashtra,Artist,6,500
+CUST1046,F,38,maharastra,Doctor,5,
+CUST1047,M,,Tamil Nadu,,9,500
+CUST1048,Male,26,delhi,Teacher,3,300
+CUST1049,,21,Tamil Nadu,engineer,,500
+CUST1050,f,,KA,Artist,10,500
+CUST1051,,47,TN,Engineer,5,Three Hundred
+CUST1052,M,53,,Artist,10,500
+CUST1053,,45,delhi,Teacher,9,500
+CUST1054,f,45,Tamil Nadu,Engineer,9,500
+CUST1055,Female,59,Karnataka,Doctor,3,500
+CUST1056,f,27,Karnataka,,4,500
+CUST1057,M,29,KA,Lawyer,9,
+CUST1058,Female,22,Tamil Nadu,Lawyer,3,200
+CUST1059,F,38,TN,engineer,9,500
+CUST1060,M,33,,engineer,2,300
+CUST1061,F,43,Karnataka,Artist,7,200
+CUST1062,,29,,Artist,10,
+CUST1063,F,56,delhi,Lawyer,5,
+CUST1064,Male,52,Delhi,Artist,9,Three Hundred
+CUST1065,Female,,Tamil Nadu,Doctor,,Three Hundred
+CUST1066,Male,34,delhi,Lawyer,9,300
+CUST1067,F,58,KA,Lawyer,9,300
+CUST1068,Male,,TN,engineer,8,200
+CUST1069,F,49,delhi,Artist,4,300
+CUST1070,M,23,maharastra,Doctor,,500
+CUST1071,Female,53,TN,engineer,9,500
+CUST1072,f,46,Delhi,Artist,7,200
+CUST1073,F,,delhi,Lawyer,9,500
+CUST1074,M,35,,Engineer,3,500
+CUST1075,,,Maharashtra,Teacher,4,100
+CUST1076,F,46,TN,engineer,9,200
+CUST1077,Male,52,Delhi,Teacher,7,100
+CUST1078,M,19,Karnataka,Lawyer,1,500
+CUST1079,Female,59,Karnataka,Doctor,10,
+CUST1080,M,49,KA,Lawyer,9,
+CUST1081,F,46,KA,,7,
+CUST1082,,27,Tamil Nadu,Lawyer,3,200
+CUST1083,F,34,Karnataka,,3,Three Hundred
+CUST1084,M,,delhi,,8,500
+CUST1085,Male,42,delhi,Lawyer,3,200
+CUST1086,f,45,,Doctor,9,500
+CUST1087,,,delhi,Engineer,10,300
+CUST1088,f,44,Maharashtra,Doctor,6,200
+CUST1089,F,55,,Lawyer,3,500
+CUST1090,M,49,TN,engineer,1,100
+CUST1091,f,42,,Lawyer,5,200
+CUST1092,Female,24,KA,Teacher,6,200
+CUST1093,Male,54,,engineer,9,500
+CUST1094,Female,18,delhi,,7,500
+CUST1095,F,19,Delhi,Teacher,6,200
+CUST1096,,34,maharastra,Lawyer,7,500
+CUST1097,Male,32,Delhi,engineer,4,500
+CUST1098,Female,22,maharastra,engineer,1,200
+CUST1099,Male,32,Karnataka,Lawyer,8,500
+CUST1100,M,39,Maharashtra,Engineer,4,
+CUST1101,f,38,Maharashtra,Lawyer,1,500
+CUST1102,f,28,TN,,5,Three Hundred
+CUST1103,Male,33,Tamil Nadu,Artist,1,
+CUST1104,M,32,,engineer,4,500
+CUST1105,f,57,Delhi,Lawyer,8,300
+CUST1106,f,29,Karnataka,engineer,2,200
+CUST1107,f,55,,Lawyer,9,100
+CUST1108,f,28,,Doctor,8,500
+CUST1109,Female,47,Delhi,Doctor,6,300
+CUST1110,f,46,Tamil Nadu,engineer,8,Three Hundred
+CUST1111,Male,36,Delhi,Artist,9,300
+CUST1112,,38,TN,Lawyer,7,500
+CUST1113,f,25,TN,Artist,1,200
+CUST1114,Male,25,Tamil Nadu,Doctor,5,300
+CUST1115,Female,45,Delhi,Lawyer,6,Three Hundred
+CUST1116,f,55,KA,Engineer,6,500
+CUST1117,Female,18,delhi,Artist,9,Three Hundred
+CUST1118,Male,55,KA,engineer,5,500
+CUST1119,M,30,TN,engineer,6,500
+CUST1120,,44,KA,engineer,9,Three Hundred
+CUST1121,,46,Karnataka,Teacher,9,100
+CUST1122,f,,Maharashtra,engineer,9,200
+CUST1123,Female,30,,,5,500
+CUST1124,Male,35,KA,,10,500
+CUST1125,Male,38,maharastra,Artist,7,300
+CUST1126,f,51,,,1,500
+CUST1127,,27,maharastra,Teacher,8,100
+CUST1128,Female,20,,Engineer,5,
+CUST1129,M,34,TN,Teacher,9,Three Hundred
+CUST1130,Female,57,Karnataka,Teacher,1,300
+CUST1131,Female,28,TN,,2,500
+CUST1132,Male,59,TN,Teacher,2,Three Hundred
+CUST1133,F,20,delhi,Engineer,10,100
+CUST1134,Male,45,maharastra,Lawyer,5,Three Hundred
+CUST1135,f,46,Delhi,Lawyer,6,500
+CUST1136,,41,maharastra,engineer,4,Three Hundred
+CUST1137,Male,26,TN,Doctor,6,200
+CUST1138,,47,maharastra,,,500
+CUST1139,M,30,Maharashtra,Engineer,6,100
+CUST1140,M,47,KA,Doctor,6,100
+CUST1141,Male,45,Maharashtra,Lawyer,8,100
+CUST1142,Male,22,maharastra,Lawyer,5,200
+CUST1143,F,41,KA,Lawyer,9,500
+CUST1144,M,49,,engineer,10,500
+CUST1145,M,22,Delhi,Engineer,2,500
+CUST1146,F,,Tamil Nadu,Doctor,2,
+CUST1147,,48,delhi,Artist,1,100
+CUST1148,f,27,KA,,10,500
+CUST1149,f,,Tamil Nadu,Artist,1,500
+CUST1150,f,,TN,Doctor,7,300
+CUST1151,F,54,TN,Teacher,,Three Hundred
+CUST1152,M,44,Maharashtra,engineer,7,200
+CUST1153,Female,52,delhi,Engineer,8,
+CUST1154,,43,maharastra,Lawyer,8,
+CUST1155,f,42,TN,engineer,4,500
+CUST1156,f,33,Tamil Nadu,Engineer,10,300
+CUST1157,Male,,Karnataka,engineer,10,200
+CUST1158,M,23,Karnataka,Doctor,1,100
+CUST1159,f,31,Tamil Nadu,Lawyer,5,
+CUST1160,M,19,,Doctor,2,500
+CUST1161,Female,40,delhi,Artist,10,500
+CUST1162,f,,TN,,5,500
+CUST1163,Female,33,Maharashtra,,5,Three Hundred
+CUST1164,,18,maharastra,Lawyer,7,500
+CUST1165,M,,Karnataka,Teacher,4,500
+CUST1166,f,58,Maharashtra,Doctor,10,200
+CUST1167,F,44,Maharashtra,Teacher,10,300
+CUST1168,Male,37,Delhi,Teacher,10,100
+CUST1169,M,54,delhi,Engineer,1,Three Hundred
+CUST1170,Male,53,maharastra,Teacher,6,200
+CUST1171,M,56,maharastra,Lawyer,7,500
+CUST1172,F,33,Maharashtra,Teacher,2,100
+CUST1173,Male,31,,Artist,7,
+CUST1174,F,18,delhi,Engineer,2,
+CUST1175,f,33,delhi,Engineer,9,Three Hundred
+CUST1176,M,50,Tamil Nadu,Artist,9,Three Hundred
+CUST1177,,39,Maharashtra,Artist,9,Three Hundred
+CUST1178,f,53,delhi,Artist,1,200
+CUST1179,F,25,Tamil Nadu,engineer,8,
+CUST1180,F,26,,,10,100
+CUST1181,,46,delhi,Artist,2,
+CUST1182,Male,44,Maharashtra,engineer,7,100
+CUST1183,Female,32,,engineer,3,500
+CUST1184,f,25,Tamil Nadu,engineer,10,200
+CUST1185,F,31,TN,Engineer,4,Three Hundred
+CUST1186,f,47,Karnataka,Artist,9,Three Hundred
+CUST1187,M,34,delhi,Teacher,8,200
+CUST1188,M,50,Tamil Nadu,Teacher,7,500
+CUST1189,,42,delhi,engineer,3,500
+CUST1190,f,38,Maharashtra,,6,500
+CUST1191,Male,55,KA,Artist,7,100
+CUST1192,Female,31,TN,,9,500
+CUST1193,Female,56,,,2,200
+CUST1194,f,37,delhi,Teacher,3,300
+CUST1195,Male,59,Tamil Nadu,Engineer,2,300
+CUST1196,Male,21,maharastra,Doctor,6,300
+CUST1197,Female,29,delhi,Doctor,2,Three Hundred
+CUST1198,Male,19,Maharashtra,,7,Three Hundred
+CUST1199,,46,Tamil Nadu,Artist,2,
+CUST1200,f,41,Karnataka,Teacher,6,100
+CUST1201,Female,39,Karnataka,Teacher,1,500
+CUST1202,f,21,Tamil Nadu,Artist,4,300
+CUST1203,F,33,Maharashtra,Engineer,5,100
+CUST1204,f,48,Tamil Nadu,engineer,5,100
+CUST1205,Male,33,TN,,7,
+CUST1206,Male,31,Tamil Nadu,Doctor,6,100
+CUST1207,M,,KA,Doctor,2,300
+CUST1208,F,23,Delhi,Engineer,7,100
+CUST1209,f,54,maharastra,Artist,4,100
+CUST1210,f,,delhi,Lawyer,3,
+CUST1211,f,38,Tamil Nadu,Engineer,7,300
+CUST1212,f,,Tamil Nadu,Doctor,4,100
+CUST1213,M,32,,Teacher,2,500
+CUST1214,,53,maharastra,Lawyer,,
+CUST1215,Male,40,Tamil Nadu,Engineer,4,200
+CUST1216,M,51,Maharashtra,Teacher,9,Three Hundred
+CUST1217,Female,55,Tamil Nadu,Teacher,,
+CUST1218,f,56,Maharashtra,,,
+CUST1219,Female,51,Delhi,,1,200
+CUST1220,M,50,Tamil Nadu,Artist,6,200
+CUST1221,F,41,KA,Teacher,10,500
+CUST1222,Female,40,Karnataka,Teacher,6,200
+CUST1223,M,18,delhi,Lawyer,,100
+CUST1224,f,27,Tamil Nadu,Doctor,8,200
+CUST1225,Female,58,Maharashtra,engineer,8,500
+CUST1226,f,34,Maharashtra,Lawyer,,100
+CUST1227,,39,TN,Lawyer,5,100
+CUST1228,Female,48,KA,Teacher,5,500
+CUST1229,f,35,Delhi,,4,
+CUST1230,F,30,Tamil Nadu,engineer,9,100
+CUST1231,F,33,,Lawyer,4,500
+CUST1232,Female,36,maharastra,,7,200
+CUST1233,Female,20,Karnataka,Doctor,6,300
+CUST1234,Male,55,Delhi,Lawyer,7,200
+CUST1235,F,30,KA,Teacher,2,Three Hundred
+CUST1236,F,,Karnataka,engineer,6,500
+CUST1237,M,28,TN,,7,200
+CUST1238,,20,TN,Teacher,2,Three Hundred
+CUST1239,F,53,Tamil Nadu,Artist,,100
+CUST1240,F,45,delhi,engineer,3,500
+CUST1241,F,48,TN,engineer,6,300
+CUST1242,f,31,Delhi,Teacher,2,
+CUST1243,f,38,Delhi,Teacher,9,Three Hundred
+CUST1244,,39,Maharashtra,Artist,6,200
+CUST1245,Male,18,delhi,Teacher,4,100
+CUST1246,Female,58,Maharashtra,Artist,3,500
+CUST1247,F,18,Karnataka,Lawyer,10,200
+CUST1248,f,36,Karnataka,engineer,8,Three Hundred
+CUST1249,Male,36,,Lawyer,10,500
+CUST1250,Male,25,Maharashtra,Teacher,1,500
+CUST1251,F,25,TN,engineer,2,500
+CUST1252,M,33,,Doctor,9,
+CUST1253,M,18,maharastra,Teacher,9,300
+CUST1254,f,41,TN,,5,500
+CUST1255,Male,28,Maharashtra,engineer,8,300
+CUST1256,Male,36,Tamil Nadu,Engineer,8,
+CUST1257,,37,,,7,300
+CUST1258,f,57,maharastra,Engineer,9,300
+CUST1259,,35,maharastra,Lawyer,2,300
+CUST1260,Female,30,Tamil Nadu,engineer,6,Three Hundred
+CUST1261,Female,,maharastra,Engineer,8,100
+CUST1262,Male,29,TN,Lawyer,3,500
+CUST1263,F,45,Delhi,engineer,1,200
+CUST1264,Female,25,delhi,Doctor,4,200
+CUST1265,Female,51,Delhi,engineer,3,200
+CUST1266,,30,,,10,500
+CUST1267,Female,21,Delhi,engineer,5,100
+CUST1268,f,55,delhi,Doctor,5,500
+CUST1269,F,33,TN,Lawyer,5,100
+CUST1270,Female,48,maharastra,Engineer,7,500
+CUST1271,f,29,maharastra,Lawyer,5,500
+CUST1272,M,59,delhi,Engineer,6,
+CUST1273,F,28,Delhi,,6,500
+CUST1274,Female,20,maharastra,Engineer,5,500
+CUST1275,F,,,Doctor,5,100
+CUST1276,,52,TN,Engineer,10,200
+CUST1277,,30,,Doctor,3,500
+CUST1278,F,29,Karnataka,Engineer,10,100
+CUST1279,Female,37,Delhi,Lawyer,9,100
+CUST1280,Male,46,TN,Artist,1,Three Hundred
+CUST1281,M,43,maharastra,Lawyer,7,300
+CUST1282,,45,,Teacher,4,500
+CUST1283,F,,delhi,Teacher,8,100
+CUST1284,f,27,Karnataka,Artist,5,
+CUST1285,f,47,Karnataka,Doctor,7,100
+CUST1286,Female,22,KA,Lawyer,6,100
+CUST1287,f,23,delhi,Doctor,9,200
+CUST1288,M,20,Maharashtra,engineer,3,300
+CUST1289,M,36,Maharashtra,Engineer,9,Three Hundred
+CUST1290,f,,,Lawyer,7,200
+CUST1291,F,51,KA,Doctor,1,Three Hundred
+CUST1292,,32,Karnataka,engineer,9,Three Hundred
+CUST1293,Female,56,Maharashtra,Artist,4,100
+CUST1294,Female,50,Karnataka,,5,300
+CUST1295,Female,25,maharastra,Lawyer,6,
+CUST1296,F,35,Karnataka,,3,Three Hundred
+CUST1297,Female,,Delhi,Engineer,4,100
+CUST1298,Male,58,maharastra,,7,500
+CUST1299,F,46,KA,Doctor,10,
+CUST1300,Female,54,KA,Artist,9,100
+CUST1301,,21,Tamil Nadu,engineer,7,
+CUST1302,,57,delhi,Lawyer,1,300
+CUST1303,f,,Maharashtra,,7,
+CUST1304,F,20,Maharashtra,engineer,5,500
+CUST1305,Male,44,,Doctor,5,300
+CUST1306,F,30,Karnataka,Engineer,10,500
+CUST1307,Male,50,TN,Doctor,10,Three Hundred
+CUST1308,,36,,engineer,9,300
+CUST1309,M,26,,Engineer,6,Three Hundred
+CUST1310,F,25,delhi,Teacher,7,
+CUST1311,Female,19,Karnataka,engineer,2,300
+CUST1312,,55,delhi,Engineer,10,500
+CUST1313,F,,Karnataka,,,100
+CUST1314,Female,18,,Lawyer,7,300
+CUST1315,M,51,Karnataka,,8,500
+CUST1316,Female,34,Tamil Nadu,engineer,4,200
+CUST1317,Female,30,delhi,Lawyer,8,200
+CUST1318,f,38,,Teacher,6,500
+CUST1319,F,34,maharastra,Doctor,,Three Hundred
+CUST1320,Female,29,KA,engineer,8,100
+CUST1321,M,,Delhi,engineer,9,Three Hundred
+CUST1322,Male,41,delhi,Doctor,1,300
+CUST1323,Male,34,maharastra,Artist,5,500
+CUST1324,f,28,,Lawyer,7,Three Hundred
+CUST1325,F,34,TN,Lawyer,8,Three Hundred
+CUST1326,F,,Karnataka,Lawyer,1,100
+CUST1327,,29,maharastra,Engineer,4,100
+CUST1328,M,56,Tamil Nadu,Teacher,3,Three Hundred
+CUST1329,f,,Maharashtra,Engineer,3,300
+CUST1330,f,26,Tamil Nadu,,,Three Hundred
+CUST1331,F,27,Karnataka,,10,500
+CUST1332,Female,48,Maharashtra,Teacher,4,100
+CUST1333,M,,,Artist,7,500
+CUST1334,f,36,KA,Doctor,4,500
+CUST1335,F,,TN,Teacher,2,100
+CUST1336,,31,Maharashtra,Lawyer,1,500
+CUST1337,f,42,,Engineer,9,500
+CUST1338,f,39,Delhi,Doctor,10,Three Hundred
+CUST1339,F,59,,,2,300
+CUST1340,Male,54,TN,,1,
+CUST1341,,,Karnataka,Engineer,10,200
+CUST1342,f,34,delhi,Artist,1,300
+CUST1343,f,43,Maharashtra,Lawyer,4,100
+CUST1344,,34,KA,Teacher,7,200
+CUST1345,F,54,Maharashtra,engineer,6,500
+CUST1346,Female,,maharastra,Artist,1,300
+CUST1347,,,Karnataka,Doctor,,500
+CUST1348,M,33,Delhi,Lawyer,,
+CUST1349,M,37,Maharashtra,Teacher,8,
+CUST1350,F,46,Delhi,Lawyer,6,300
+CUST1351,,35,,Doctor,1,500
+CUST1352,f,34,KA,engineer,2,500
+CUST1353,M,42,,engineer,9,Three Hundred
+CUST1354,Female,,KA,Engineer,1,500
+CUST1355,Male,37,Tamil Nadu,engineer,4,500
+CUST1356,,42,Karnataka,Teacher,4,500
+CUST1357,,52,TN,,7,100
+CUST1358,M,51,TN,Teacher,4,
+CUST1359,F,37,Maharashtra,Engineer,9,Three Hundred
+CUST1360,M,27,Delhi,,7,200
+CUST1361,M,38,Karnataka,Artist,3,200
+CUST1362,F,29,Maharashtra,Lawyer,7,500
+CUST1363,,43,KA,Lawyer,7,300
+CUST1364,Male,41,maharastra,,7,500
+CUST1365,F,34,KA,Lawyer,,200
+CUST1366,f,53,delhi,Teacher,5,
+CUST1367,M,,TN,,10,
+CUST1368,,34,Maharashtra,engineer,2,500
+CUST1369,Female,31,Tamil Nadu,Lawyer,3,300
+CUST1370,M,46,Delhi,,3,200
+CUST1371,f,57,Tamil Nadu,,8,
+CUST1372,M,25,maharastra,,9,
+CUST1373,F,,maharastra,Lawyer,8,500
+CUST1374,Male,44,Karnataka,engineer,2,500
+CUST1375,F,54,Karnataka,Artist,5,
+CUST1376,,48,delhi,Teacher,9,100
+CUST1377,,24,KA,Doctor,9,200
+CUST1378,f,31,delhi,,6,300
+CUST1379,M,19,TN,,2,500
+CUST1380,f,54,Maharashtra,,,500
+CUST1381,F,41,maharastra,Engineer,2,
+CUST1382,,37,KA,Lawyer,9,
+CUST1383,Female,50,Maharashtra,Teacher,9,200
+CUST1384,Female,45,maharastra,Lawyer,10,300
+CUST1385,Male,31,Tamil Nadu,Artist,9,500
+CUST1386,f,51,KA,Lawyer,5,100
+CUST1387,F,21,Delhi,Lawyer,9,300
+CUST1388,F,40,Karnataka,Doctor,5,
+CUST1389,Male,36,Tamil Nadu,Engineer,1,100
+CUST1390,Female,25,KA,Artist,10,Three Hundred
+CUST1391,M,33,TN,Engineer,10,500
+CUST1392,F,27,delhi,engineer,2,200
+CUST1393,Male,29,Delhi,Teacher,4,500
+CUST1394,Female,46,Maharashtra,Doctor,8,500
+CUST1395,Female,28,Tamil Nadu,Doctor,2,
+CUST1396,Female,33,Delhi,Lawyer,2,200
+CUST1397,Female,40,Maharashtra,Artist,3,500
+CUST1398,Female,38,KA,Doctor,3,500
+CUST1399,,22,KA,,1,500
+CUST1400,M,44,Maharashtra,Lawyer,5,500
+CUST1401,F,34,Karnataka,Engineer,5,300
+CUST1402,F,,Maharashtra,engineer,7,
+CUST1403,f,43,Maharashtra,Lawyer,7,
+CUST1404,M,22,maharastra,,9,300
+CUST1405,f,45,,Doctor,8,
+CUST1406,Female,37,Maharashtra,Teacher,4,500
+CUST1407,Male,25,,Teacher,8,200
+CUST1408,,50,TN,Teacher,10,300
+CUST1409,M,,TN,Engineer,4,200
+CUST1410,,48,,,5,200
+CUST1411,F,18,Karnataka,,3,100
+CUST1412,Male,25,Tamil Nadu,Lawyer,5,Three Hundred
+CUST1413,,20,Tamil Nadu,engineer,2,100
+CUST1414,Female,20,Karnataka,Doctor,,500
+CUST1415,f,25,TN,engineer,5,
+CUST1416,M,54,,Doctor,7,
+CUST1417,M,20,Delhi,Teacher,3,Three Hundred
+CUST1418,F,40,Tamil Nadu,Doctor,10,200
+CUST1419,f,21,Karnataka,Artist,5,100
+CUST1420,M,24,Maharashtra,Teacher,9,500
+CUST1421,Male,,maharastra,Engineer,6,500
+CUST1422,,43,Tamil Nadu,Engineer,,300
+CUST1423,M,32,Delhi,engineer,3,Three Hundred
+CUST1424,Female,34,maharastra,Doctor,,Three Hundred
+CUST1425,,35,Delhi,Lawyer,3,200
+CUST1426,M,51,Karnataka,engineer,,500
+CUST1427,Male,51,Delhi,Engineer,9,200
+CUST1428,Male,26,KA,Engineer,4,500
+CUST1429,,24,maharastra,Artist,7,
+CUST1430,F,32,Tamil Nadu,,6,300
+CUST1431,f,29,Delhi,,1,500
+CUST1432,M,56,maharastra,Artist,6,500
+CUST1433,F,59,KA,Lawyer,10,200
+CUST1434,Female,25,delhi,Engineer,8,500
+CUST1435,f,38,Karnataka,Engineer,10,300
+CUST1436,M,21,KA,Artist,5,100
+CUST1437,Female,39,Delhi,Engineer,5,Three Hundred
+CUST1438,M,51,Maharashtra,engineer,10,200
+CUST1439,F,,Delhi,Doctor,9,
+CUST1440,F,22,Delhi,Lawyer,6,500
+CUST1441,,24,delhi,Artist,7,Three Hundred
+CUST1442,Female,50,KA,Engineer,1,200
+CUST1443,f,50,maharastra,,,500
+CUST1444,f,56,Tamil Nadu,,8,Three Hundred
+CUST1445,Male,41,delhi,Teacher,1,Three Hundred
+CUST1446,Male,,Tamil Nadu,Teacher,10,100
+CUST1447,F,44,Karnataka,Lawyer,8,200
+CUST1448,F,24,TN,Teacher,8,500
+CUST1449,F,52,delhi,Lawyer,7,500
+CUST1450,M,43,TN,,4,100
+CUST1451,Female,19,KA,Lawyer,3,100
+CUST1452,,37,Karnataka,Lawyer,5,300
+CUST1453,Male,46,Delhi,Engineer,4,Three Hundred
+CUST1454,,58,Delhi,Teacher,6,
+CUST1455,,26,Delhi,Doctor,8,300
+CUST1456,,52,Maharashtra,Engineer,4,Three Hundred
+CUST1457,M,58,KA,Teacher,8,300
+CUST1458,Male,41,,Teacher,1,500
+CUST1459,Female,19,delhi,,6,500
+CUST1460,Female,37,Delhi,Lawyer,2,100
+CUST1461,,35,Delhi,engineer,3,500
+CUST1462,Male,22,,Artist,8,500
+CUST1463,f,45,Tamil Nadu,Artist,10,100
+CUST1464,,59,Delhi,Doctor,10,
+CUST1465,Male,,,,6,
+CUST1466,Male,57,Karnataka,Doctor,9,200
+CUST1467,f,25,TN,Artist,1,500
+CUST1468,Female,46,TN,Engineer,6,500
+CUST1469,M,24,,Teacher,2,500
+CUST1470,Female,50,maharastra,Doctor,8,500
+CUST1471,M,46,Tamil Nadu,,3,
+CUST1472,f,44,Maharashtra,Lawyer,,Three Hundred
+CUST1473,Male,21,Tamil Nadu,Lawyer,2,100
+CUST1474,M,,KA,Lawyer,7,500
+CUST1475,Female,,Karnataka,,2,
+CUST1476,Male,57,Tamil Nadu,Lawyer,3,
+CUST1477,f,,Delhi,Lawyer,6,Three Hundred
+CUST1478,Male,36,delhi,Engineer,10,
+CUST1479,Male,50,,Engineer,3,500
+CUST1480,M,40,TN,Doctor,8,100
+CUST1481,F,47,delhi,Doctor,3,Three Hundred
+CUST1482,f,35,Delhi,,10,100
+CUST1483,,44,Karnataka,Teacher,3,
+CUST1484,,,Maharashtra,Doctor,8,
+CUST1485,Female,52,,Teacher,6,500
+CUST1486,M,38,maharastra,Doctor,10,Three Hundred
+CUST1487,F,31,,Doctor,5,500
+CUST1488,Female,18,KA,engineer,1,Three Hundred
+CUST1489,M,20,,Teacher,8,
+CUST1490,f,26,TN,,2,500
+CUST1491,f,56,Tamil Nadu,Artist,2,200
+CUST1492,,24,TN,Engineer,6,500
+CUST1493,Male,59,maharastra,engineer,8,300
+CUST1494,M,,maharastra,engineer,10,500
+CUST1495,f,46,Tamil Nadu,Teacher,5,Three Hundred
+CUST1496,,36,maharastra,Doctor,10,500
+CUST1497,Female,38,Tamil Nadu,Doctor,1,200
+CUST1498,,,Tamil Nadu,Doctor,8,300
+CUST1499,Female,47,KA,Lawyer,5,100
+CUST1500,F,30,,Lawyer,7,500
+CUST1501,F,34,maharastra,Doctor,8,500
+CUST1502,F,30,maharastra,Doctor,2,500
+CUST1503,f,,Tamil Nadu,Teacher,5,
+CUST1504,f,44,Tamil Nadu,Artist,3,Three Hundred
+CUST1505,F,37,delhi,Lawyer,9,Three Hundred
+CUST1506,,47,Karnataka,Engineer,2,500
+CUST1507,Female,20,Delhi,Doctor,2,Three Hundred
+CUST1508,Male,59,TN,engineer,2,500
+CUST1509,Female,19,delhi,Artist,6,
+CUST1510,f,42,Delhi,Doctor,1,Three Hundred
+CUST1511,M,31,maharastra,Engineer,5,500
+CUST1512,,31,KA,Teacher,10,500
+CUST1513,M,45,Karnataka,Engineer,4,Three Hundred
+CUST1514,,36,maharastra,engineer,4,300
+CUST1515,F,,Tamil Nadu,Engineer,8,500
+CUST1516,f,45,TN,Doctor,6,500
+CUST1517,M,53,,Lawyer,10,100
+CUST1518,Female,27,delhi,,5,200
+CUST1519,Male,54,Maharashtra,Doctor,7,Three Hundred
+CUST1520,,59,,Doctor,4,300
+CUST1521,F,35,KA,Artist,5,500
+CUST1522,F,38,Tamil Nadu,Engineer,5,300
+CUST1523,M,20,TN,Engineer,2,500
+CUST1524,f,46,KA,Engineer,9,100
+CUST1525,f,58,Karnataka,Lawyer,6,
+CUST1526,f,53,TN,Artist,4,200
+CUST1527,Female,50,Maharashtra,Teacher,,
+CUST1528,Male,42,Karnataka,engineer,7,500
+CUST1529,Female,25,TN,,7,500
+CUST1530,Male,50,Delhi,Artist,4,500
+CUST1531,,18,Karnataka,Doctor,2,300
+CUST1532,M,40,maharastra,Doctor,2,200
+CUST1533,,47,Karnataka,Engineer,6,200
+CUST1534,f,46,,Doctor,7,300
+CUST1535,Female,40,Delhi,Teacher,10,200
+CUST1536,Male,,KA,engineer,7,Three Hundred
+CUST1537,F,33,Karnataka,Lawyer,8,200
+CUST1538,f,56,maharastra,Artist,5,
+CUST1539,M,36,delhi,Artist,,300
+CUST1540,Male,57,Tamil Nadu,,4,500
+CUST1541,Female,48,,Lawyer,7,200
+CUST1542,f,50,Karnataka,Doctor,9,
+CUST1543,M,53,KA,Teacher,,500
+CUST1544,F,41,Maharashtra,Teacher,4,500
+CUST1545,Female,35,TN,Lawyer,1,200
+CUST1546,,,delhi,Engineer,8,500
+CUST1547,F,19,,Teacher,10,300
+CUST1548,F,26,Maharashtra,engineer,10,500
+CUST1549,f,,maharastra,,9,200
+CUST1550,f,,maharastra,Engineer,10,
+CUST1551,M,34,Maharashtra,Engineer,9,500
+CUST1552,Female,57,delhi,Lawyer,1,Three Hundred
+CUST1553,M,43,maharastra,Artist,7,200
+CUST1554,F,52,,Artist,1,300
+CUST1555,Female,20,delhi,Lawyer,9,
+CUST1556,M,22,Karnataka,Teacher,8,Three Hundred
+CUST1557,,58,Tamil Nadu,Engineer,6,500
+CUST1558,F,29,maharastra,Teacher,1,
+CUST1559,,58,Maharashtra,Lawyer,2,200
+CUST1560,f,18,Maharashtra,Artist,1,200
+CUST1561,Female,,delhi,Artist,9,500
+CUST1562,,48,delhi,Artist,2,300
+CUST1563,f,56,Tamil Nadu,Artist,7,200
+CUST1564,f,39,,Engineer,6,100
+CUST1565,,41,Tamil Nadu,engineer,7,Three Hundred
+CUST1566,,31,KA,Lawyer,4,Three Hundred
+CUST1567,f,29,,Lawyer,6,300
+CUST1568,F,45,Delhi,Lawyer,,
+CUST1569,M,44,maharastra,Engineer,9,500
+CUST1570,Female,51,TN,,8,200
+CUST1571,M,28,TN,Lawyer,1,Three Hundred
+CUST1572,Male,19,Karnataka,Doctor,5,300
+CUST1573,,48,Karnataka,Lawyer,7,
+CUST1574,Female,28,KA,Doctor,7,100
+CUST1575,Female,19,Maharashtra,Doctor,9,200
+CUST1576,M,52,,engineer,7,Three Hundred
+CUST1577,f,45,Tamil Nadu,,9,
+CUST1578,f,,,Lawyer,7,200
+CUST1579,Male,34,Maharashtra,Lawyer,4,500
+CUST1580,f,52,delhi,,5,300
+CUST1581,f,40,,engineer,6,
+CUST1582,,38,maharastra,Artist,2,100
+CUST1583,Male,40,maharastra,Doctor,4,Three Hundred
+CUST1584,,32,,Engineer,9,100
+CUST1585,M,56,Karnataka,engineer,6,500
+CUST1586,F,54,Maharashtra,Engineer,2,300
+CUST1587,M,50,maharastra,Teacher,6,Three Hundred
+CUST1588,Female,43,,Lawyer,10,300
+CUST1589,Male,58,delhi,,9,
+CUST1590,M,37,delhi,Doctor,6,Three Hundred
+CUST1591,f,,,Lawyer,5,Three Hundred
+CUST1592,Male,43,Karnataka,,9,Three Hundred
+CUST1593,,39,delhi,Engineer,6,100
+CUST1594,Male,41,delhi,Teacher,5,300
+CUST1595,F,22,delhi,Teacher,9,100
+CUST1596,,43,delhi,Artist,7,
+CUST1597,F,46,KA,Artist,2,300
+CUST1598,Female,56,KA,,5,200
+CUST1599,Male,32,delhi,Artist,6,500
+CUST1600,Female,55,Tamil Nadu,Doctor,9,500
+CUST1601,f,54,TN,engineer,4,500
+CUST1602,,59,Karnataka,Engineer,9,Three Hundred
+CUST1603,,28,maharastra,Lawyer,4,100
+CUST1604,f,27,Maharashtra,Teacher,9,500
+CUST1605,M,28,Delhi,Teacher,7,300
+CUST1606,Female,55,maharastra,engineer,9,Three Hundred
+CUST1607,M,58,Tamil Nadu,Teacher,9,500
+CUST1608,M,54,Tamil Nadu,Lawyer,10,300
+CUST1609,F,54,Delhi,engineer,,200
+CUST1610,,22,TN,Teacher,3,Three Hundred
+CUST1611,Male,48,KA,Artist,6,500
+CUST1612,Female,42,maharastra,Doctor,10,100
+CUST1613,f,58,Delhi,,8,100
+CUST1614,F,,KA,engineer,1,500
+CUST1615,M,51,delhi,,6,200
+CUST1616,F,52,Karnataka,Teacher,1,200
+CUST1617,F,21,maharastra,Lawyer,1,100
+CUST1618,F,28,,,3,500
+CUST1619,Female,33,TN,Doctor,3,
+CUST1620,M,37,Delhi,,6,500
+CUST1621,F,37,,Engineer,2,100
+CUST1622,Female,51,,Artist,1,Three Hundred
+CUST1623,Male,50,delhi,engineer,8,200
+CUST1624,Female,57,TN,Teacher,6,500
+CUST1625,M,,delhi,,9,200
+CUST1626,M,32,TN,Engineer,8,
+CUST1627,F,46,,Artist,4,300
+CUST1628,F,18,maharastra,Engineer,8,500
+CUST1629,M,57,Karnataka,Teacher,7,100
+CUST1630,,43,delhi,Artist,6,Three Hundred
+CUST1631,M,20,Tamil Nadu,Artist,7,300
+CUST1632,F,49,TN,Artist,10,500
+CUST1633,M,30,,engineer,10,Three Hundred
+CUST1634,Male,45,Karnataka,Doctor,9,
+CUST1635,,41,,Artist,1,100
+CUST1636,f,,KA,,9,300
+CUST1637,F,21,,Lawyer,5,200
+CUST1638,f,18,KA,Doctor,1,300
+CUST1639,Male,,Maharashtra,Engineer,10,200
+CUST1640,M,25,Maharashtra,Lawyer,6,500
+CUST1641,F,42,delhi,engineer,10,300
+CUST1642,M,18,Delhi,Lawyer,3,
+CUST1643,Male,50,,engineer,3,200
+CUST1644,F,26,delhi,Artist,6,500
+CUST1645,Male,51,TN,Teacher,6,500
+CUST1646,Female,31,TN,engineer,6,500
+CUST1647,M,,Tamil Nadu,Engineer,9,
+CUST1648,f,56,Karnataka,Artist,9,200
+CUST1649,f,31,Karnataka,Doctor,2,
+CUST1650,F,38,KA,Lawyer,1,
+CUST1651,,28,,Engineer,3,200
+CUST1652,,58,Maharashtra,,2,100
+CUST1653,Male,47,KA,Doctor,1,300
+CUST1654,,55,Delhi,Lawyer,9,500
+CUST1655,F,25,Karnataka,Engineer,2,
+CUST1656,Female,35,KA,Lawyer,9,
+CUST1657,Female,57,Maharashtra,Engineer,5,Three Hundred
+CUST1658,F,57,TN,Teacher,10,Three Hundred
+CUST1659,f,19,KA,Artist,2,200
+CUST1660,Male,39,Maharashtra,engineer,6,200
+CUST1661,F,43,maharastra,Teacher,4,200
+CUST1662,F,38,maharastra,engineer,4,Three Hundred
+CUST1663,F,32,Karnataka,,8,Three Hundred
+CUST1664,M,43,Karnataka,Engineer,,100
+CUST1665,Male,41,maharastra,Doctor,1,200
+CUST1666,Male,26,delhi,Engineer,8,100
+CUST1667,,41,maharastra,Teacher,8,100
+CUST1668,Female,36,Tamil Nadu,,1,300
+CUST1669,Female,51,Karnataka,Teacher,4,200
+CUST1670,F,45,Karnataka,Engineer,2,Three Hundred
+CUST1671,,36,maharastra,engineer,8,
+CUST1672,f,27,Delhi,,6,500
+CUST1673,f,28,Tamil Nadu,Teacher,4,300
+CUST1674,F,20,delhi,Engineer,9,100
+CUST1675,Male,37,KA,Engineer,10,200
+CUST1676,Male,19,Karnataka,,5,500
+CUST1677,,33,,Lawyer,5,500
+CUST1678,Male,52,maharastra,Engineer,,100
+CUST1679,Female,32,Karnataka,Lawyer,3,500
+CUST1680,f,39,KA,Lawyer,2,200
+CUST1681,Male,30,Maharashtra,Lawyer,8,500
+CUST1682,Female,22,delhi,engineer,8,100
+CUST1683,Female,33,Karnataka,Engineer,7,100
+CUST1684,F,27,Delhi,Teacher,5,Three Hundred
+CUST1685,Female,,TN,Artist,3,300
+CUST1686,M,30,KA,Teacher,9,
+CUST1687,,47,,Teacher,6,Three Hundred
+CUST1688,f,20,TN,Lawyer,,300
+CUST1689,Male,,,engineer,4,500
+CUST1690,Female,33,TN,Engineer,2,500
+CUST1691,f,44,KA,engineer,9,300
+CUST1692,Male,33,TN,Engineer,3,500
+CUST1693,F,33,KA,Engineer,9,300
+CUST1694,f,39,KA,Teacher,6,100
+CUST1695,f,20,KA,Artist,8,100
+CUST1696,F,21,KA,,6,Three Hundred
+CUST1697,f,22,delhi,,8,500
+CUST1698,,,Delhi,,8,100
+CUST1699,Female,52,Karnataka,Lawyer,10,500
+CUST1700,M,,delhi,,4,200
+CUST1701,,27,,Teacher,6,500
+CUST1702,Female,21,Delhi,Artist,4,
+CUST1703,f,29,Maharashtra,Engineer,7,300
+CUST1704,,47,Tamil Nadu,,7,500
+CUST1705,,34,Karnataka,engineer,7,500
+CUST1706,Male,45,Delhi,Doctor,10,100
+CUST1707,Female,43,KA,engineer,9,
+CUST1708,Female,21,Maharashtra,Artist,3,200
+CUST1709,f,48,maharastra,Doctor,6,500
+CUST1710,Female,59,Tamil Nadu,Teacher,3,300
+CUST1711,M,43,delhi,engineer,6,300
+CUST1712,M,53,Tamil Nadu,Doctor,9,
+CUST1713,F,26,KA,Lawyer,8,100
+CUST1714,F,35,Tamil Nadu,Teacher,4,500
+CUST1715,F,27,maharastra,Artist,10,200
+CUST1716,f,20,KA,Lawyer,1,
+CUST1717,Female,19,maharastra,Doctor,9,Three Hundred
+CUST1718,Female,,delhi,Doctor,4,500
+CUST1719,Male,18,Tamil Nadu,Artist,1,100
+CUST1720,Female,27,Tamil Nadu,Doctor,9,300
+CUST1721,Male,28,,Artist,1,300
+CUST1722,F,44,Delhi,,7,200
+CUST1723,F,58,Tamil Nadu,Doctor,4,300
+CUST1724,F,52,,Teacher,1,200
+CUST1725,,55,KA,,,100
+CUST1726,,45,KA,Doctor,4,500
+CUST1727,f,48,,Teacher,3,500
+CUST1728,f,28,Tamil Nadu,Engineer,2,200
+CUST1729,Female,50,Tamil Nadu,,,500
+CUST1730,F,44,,Lawyer,10,200
+CUST1731,Male,44,Tamil Nadu,engineer,8,500
+CUST1732,Female,51,Tamil Nadu,Lawyer,5,100
+CUST1733,F,22,,Teacher,6,500
+CUST1734,Male,23,Tamil Nadu,,6,500
+CUST1735,Male,33,Delhi,Doctor,3,
+CUST1736,M,44,TN,Engineer,10,
+CUST1737,M,55,KA,Artist,9,Three Hundred
+CUST1738,F,34,maharastra,Lawyer,9,
+CUST1739,Female,57,Delhi,,6,200
+CUST1740,Male,21,KA,Lawyer,1,300
+CUST1741,f,57,KA,engineer,1,Three Hundred
+CUST1742,Male,55,Karnataka,engineer,5,500
+CUST1743,Male,28,KA,Teacher,1,200
+CUST1744,Male,,Maharashtra,Teacher,5,100
+CUST1745,Female,25,TN,Teacher,5,300
+CUST1746,M,33,Delhi,Doctor,8,500
+CUST1747,M,,,Doctor,1,100
+CUST1748,F,33,Maharashtra,,2,300
+CUST1749,f,54,,Teacher,10,500
+CUST1750,Female,33,Tamil Nadu,engineer,8,300
+CUST1751,Female,38,TN,Teacher,6,100
+CUST1752,F,32,delhi,,1,
+CUST1753,F,46,Karnataka,,8,500
+CUST1754,Female,23,Tamil Nadu,Engineer,4,300
+CUST1755,F,19,Tamil Nadu,engineer,10,200
+CUST1756,Female,49,KA,Artist,2,500
+CUST1757,Female,50,,,7,300
+CUST1758,,34,Tamil Nadu,Artist,2,500
+CUST1759,Male,19,TN,Artist,3,200
+CUST1760,Female,37,maharastra,Artist,5,500
+CUST1761,f,28,Maharashtra,Teacher,7,300
+CUST1762,f,29,maharastra,Teacher,4,300
+CUST1763,M,,Delhi,Engineer,6,100
+CUST1764,F,37,maharastra,Engineer,7,Three Hundred
+CUST1765,Female,23,delhi,Engineer,3,500
+CUST1766,,25,Maharashtra,Artist,4,Three Hundred
+CUST1767,F,35,Karnataka,Lawyer,7,500
+CUST1768,Female,23,Tamil Nadu,engineer,3,500
+CUST1769,f,38,Maharashtra,Artist,4,200
+CUST1770,M,56,,Engineer,8,
+CUST1771,Female,52,Maharashtra,Artist,9,300
+CUST1772,Female,26,Tamil Nadu,Artist,6,200
+CUST1773,F,22,TN,,,500
+CUST1774,Female,22,,Doctor,6,100
+CUST1775,F,20,maharastra,Lawyer,3,200
+CUST1776,M,59,Delhi,engineer,3,
+CUST1777,,39,Delhi,Artist,9,100
+CUST1778,f,44,Tamil Nadu,Artist,3,Three Hundred
+CUST1779,F,39,,Doctor,1,500
+CUST1780,F,56,,,1,500
+CUST1781,Female,45,maharastra,Lawyer,8,100
+CUST1782,Male,36,Tamil Nadu,Lawyer,9,300
+CUST1783,M,59,Delhi,Doctor,1,
+CUST1784,Male,34,maharastra,Artist,7,Three Hundred
+CUST1785,M,41,Delhi,engineer,10,
+CUST1786,,40,delhi,Doctor,1,300
+CUST1787,,30,Karnataka,Lawyer,10,100
+CUST1788,Female,50,,Artist,2,200
+CUST1789,F,38,delhi,Lawyer,9,200
+CUST1790,M,,Karnataka,,2,300
+CUST1791,F,57,KA,Doctor,5,200
+CUST1792,Female,37,Karnataka,,4,500
+CUST1793,Male,38,delhi,engineer,5,Three Hundred
+CUST1794,F,,TN,Lawyer,9,200
+CUST1795,f,41,delhi,engineer,7,500
+CUST1796,Female,41,maharastra,Lawyer,5,200
+CUST1797,f,46,TN,,4,300
+CUST1798,Male,28,Tamil Nadu,Lawyer,8,200
+CUST1799,,29,Maharashtra,Teacher,3,500
+CUST1800,M,48,TN,Engineer,2,500
+CUST1801,,49,Delhi,Doctor,1,
+CUST1802,Female,,maharastra,engineer,8,500
+CUST1803,M,22,,Engineer,8,
+CUST1804,Female,22,Karnataka,Artist,1,100
+CUST1805,Female,,Karnataka,Lawyer,3,200
+CUST1806,f,32,KA,,8,500
+CUST1807,Male,29,KA,Lawyer,6,500
+CUST1808,,47,Tamil Nadu,Engineer,3,200
+CUST1809,M,50,Tamil Nadu,Teacher,6,
+CUST1810,,34,Karnataka,,3,500
+CUST1811,Male,33,Karnataka,engineer,2,
+CUST1812,Female,48,Tamil Nadu,Engineer,9,
+CUST1813,f,48,Karnataka,Artist,3,100
+CUST1814,M,31,,Lawyer,8,100
+CUST1815,Male,32,Maharashtra,,3,Three Hundred
+CUST1816,Female,40,Tamil Nadu,Doctor,5,300
+CUST1817,M,40,Karnataka,,3,500
+CUST1818,F,21,Delhi,Engineer,10,300
+CUST1819,f,19,Delhi,Artist,8,200
+CUST1820,Female,31,,Lawyer,3,
+CUST1821,F,55,Delhi,Engineer,7,200
+CUST1822,Female,49,Maharashtra,Lawyer,10,
+CUST1823,M,,KA,,1,500
+CUST1824,F,37,Maharashtra,Engineer,1,Three Hundred
+CUST1825,,46,maharastra,Artist,9,200
+CUST1826,,28,delhi,Artist,5,300
+CUST1827,F,47,,Engineer,9,Three Hundred
+CUST1828,f,25,KA,Engineer,7,500
+CUST1829,,25,maharastra,Engineer,9,300
+CUST1830,M,21,Tamil Nadu,,1,
+CUST1831,,34,Delhi,Artist,2,100
+CUST1832,Female,41,Maharashtra,engineer,7,200
+CUST1833,f,45,KA,Engineer,9,100
+CUST1834,F,36,KA,engineer,4,500
+CUST1835,,34,Delhi,Engineer,3,Three Hundred
+CUST1836,F,32,Delhi,Teacher,4,
+CUST1837,Male,44,KA,Lawyer,8,500
+CUST1838,F,28,delhi,Engineer,3,
+CUST1839,M,,KA,Artist,3,Three Hundred
+CUST1840,F,18,KA,Artist,5,500
+CUST1841,f,28,KA,Doctor,1,500
+CUST1842,M,41,KA,Artist,6,500
+CUST1843,Female,36,,Teacher,10,500
+CUST1844,F,45,delhi,,4,300
+CUST1845,Female,59,Tamil Nadu,,7,
+CUST1846,Male,27,delhi,engineer,6,500
+CUST1847,,42,Tamil Nadu,Doctor,1,
+CUST1848,Female,24,Maharashtra,Lawyer,4,100
+CUST1849,F,31,Karnataka,Engineer,8,
+CUST1850,Female,28,delhi,Doctor,9,
+CUST1851,f,39,KA,engineer,9,Three Hundred
+CUST1852,M,47,maharastra,Lawyer,10,500
+CUST1853,M,51,,Teacher,2,300
+CUST1854,F,54,maharastra,Lawyer,10,100
+CUST1855,Male,,Maharashtra,engineer,1,
+CUST1856,M,24,TN,Lawyer,2,300
+CUST1857,Male,56,Maharashtra,Lawyer,9,200
+CUST1858,f,,,engineer,5,300
+CUST1859,,38,Tamil Nadu,Lawyer,8,500
+CUST1860,,59,delhi,Artist,4,500
+CUST1861,M,43,Maharashtra,Artist,4,100
+CUST1862,Male,,Delhi,Engineer,8,500
+CUST1863,,56,Maharashtra,,4,500
+CUST1864,,39,TN,Artist,4,
+CUST1865,,44,delhi,Engineer,2,100
+CUST1866,F,56,Karnataka,Lawyer,4,500
+CUST1867,,47,Karnataka,Teacher,8,500
+CUST1868,f,58,Maharashtra,engineer,1,Three Hundred
+CUST1869,Female,41,KA,Artist,9,200
+CUST1870,Female,37,Karnataka,Engineer,4,500
+CUST1871,Male,35,maharastra,Lawyer,9,200
+CUST1872,,51,Delhi,Engineer,1,200
+CUST1873,Female,39,Karnataka,engineer,7,500
+CUST1874,,25,Maharashtra,Lawyer,1,
+CUST1875,M,32,,Teacher,9,100
+CUST1876,Male,30,Delhi,Engineer,,500
+CUST1877,,41,Tamil Nadu,,6,500
+CUST1878,Female,42,delhi,Artist,10,500
+CUST1879,M,26,Delhi,Lawyer,6,500
+CUST1880,,43,Maharashtra,Doctor,5,500
+CUST1881,Male,27,maharastra,Engineer,3,100
+CUST1882,f,45,delhi,Artist,1,100
+CUST1883,Female,37,Delhi,,8,500
+CUST1884,M,,Karnataka,Lawyer,2,
+CUST1885,F,52,Delhi,Engineer,2,200
+CUST1886,,55,TN,Lawyer,9,200
+CUST1887,f,35,KA,Lawyer,2,500
+CUST1888,M,58,Tamil Nadu,Doctor,2,500
+CUST1889,,23,Maharashtra,Engineer,3,500
+CUST1890,,45,maharastra,Teacher,,500
+CUST1891,Male,22,Delhi,Artist,6,Three Hundred
+CUST1892,M,58,Delhi,,6,500
+CUST1893,f,20,TN,engineer,2,300
+CUST1894,,22,Karnataka,,4,
+CUST1895,Male,51,Maharashtra,Teacher,2,200
+CUST1896,,48,,engineer,,100
+CUST1897,Male,40,maharastra,,7,500
+CUST1898,f,50,KA,Lawyer,10,200
+CUST1899,f,34,Karnataka,Engineer,8,Three Hundred
+CUST1900,Male,31,,Lawyer,2,200
+CUST1901,F,51,KA,Doctor,5,100
+CUST1902,Female,40,maharastra,Engineer,2,200
+CUST1903,Male,24,TN,Engineer,,500
+CUST1904,Male,53,Delhi,engineer,2,500
+CUST1905,Male,,delhi,Artist,5,100
+CUST1906,F,,maharastra,Artist,5,200
+CUST1907,Female,31,TN,Engineer,8,500
+CUST1908,M,50,Tamil Nadu,Doctor,5,200
+CUST1909,Male,48,delhi,,4,500
+CUST1910,F,35,Maharashtra,Teacher,6,200
+CUST1911,M,21,Delhi,engineer,8,200
+CUST1912,Female,27,Karnataka,engineer,4,200
+CUST1913,f,59,delhi,,5,300
+CUST1914,M,21,TN,Teacher,6,200
+CUST1915,Female,43,KA,Teacher,10,Three Hundred
+CUST1916,F,20,Karnataka,Artist,4,500
+CUST1917,,59,Delhi,Engineer,,Three Hundred
+CUST1918,f,44,Delhi,Engineer,3,500
+CUST1919,f,32,Maharashtra,Lawyer,3,
+CUST1920,Female,34,Karnataka,Teacher,5,200
+CUST1921,f,,Delhi,Lawyer,2,100
+CUST1922,f,44,TN,engineer,3,500
+CUST1923,Male,35,TN,engineer,9,500
+CUST1924,,30,maharastra,Doctor,8,300
+CUST1925,f,57,Maharashtra,Teacher,5,
+CUST1926,M,30,Delhi,Doctor,6,Three Hundred
+CUST1927,Male,56,Maharashtra,Lawyer,8,300
+CUST1928,F,24,Tamil Nadu,Engineer,5,500
+CUST1929,M,22,Karnataka,Teacher,5,100
+CUST1930,Female,51,maharastra,Doctor,1,300
+CUST1931,Female,49,,Engineer,6,200
+CUST1932,F,41,Delhi,Engineer,8,Three Hundred
+CUST1933,f,20,Karnataka,,4,200
+CUST1934,,45,,Doctor,9,200
+CUST1935,M,38,delhi,Doctor,10,100
+CUST1936,f,23,Karnataka,,9,200
+CUST1937,M,54,Delhi,Doctor,6,
+CUST1938,Female,,Maharashtra,engineer,2,500
+CUST1939,Male,51,TN,engineer,4,
+CUST1940,Male,56,,Lawyer,8,
+CUST1941,,45,maharastra,engineer,10,
+CUST1942,Male,,KA,Lawyer,3,500
+CUST1943,Female,,Tamil Nadu,Artist,5,100
+CUST1944,f,23,KA,Engineer,2,200
+CUST1945,,43,TN,Doctor,3,100
+CUST1946,M,29,Maharashtra,Artist,6,100
+CUST1947,f,27,Karnataka,Engineer,7,500
+CUST1948,Female,,,Doctor,3,300
+CUST1949,M,40,,engineer,6,100
+CUST1950,Female,24,TN,Lawyer,4,500
+CUST1951,M,19,maharastra,,5,200
+CUST1952,F,30,Karnataka,Artist,5,Three Hundred
+CUST1953,Male,45,Maharashtra,Artist,5,500
+CUST1954,f,30,Tamil Nadu,Artist,,500
+CUST1955,f,50,maharastra,Teacher,6,500
+CUST1956,,19,Maharashtra,engineer,10,500
+CUST1957,Male,54,,Engineer,9,500
+CUST1958,F,50,KA,Engineer,8,200
+CUST1959,f,33,Delhi,,4,100
+CUST1960,f,31,delhi,,5,300
+CUST1961,M,24,Delhi,Artist,3,300
+CUST1962,M,20,,Teacher,4,100
+CUST1963,F,18,,Artist,1,300
+CUST1964,,47,Tamil Nadu,engineer,10,
+CUST1965,Female,22,Karnataka,engineer,2,500
+CUST1966,f,53,Karnataka,Engineer,9,
+CUST1967,F,53,delhi,Lawyer,10,500
+CUST1968,Female,28,Maharashtra,Doctor,6,300
+CUST1969,,46,KA,Artist,1,500
+CUST1970,Male,,Delhi,Artist,10,Three Hundred
+CUST1971,,20,Karnataka,Artist,6,100
+CUST1972,Female,20,,Lawyer,4,
+CUST1973,Male,29,Tamil Nadu,Teacher,2,500
+CUST1974,Male,21,Tamil Nadu,Teacher,3,500
+CUST1975,Male,41,Tamil Nadu,Lawyer,6,Three Hundred
+CUST1976,F,18,Delhi,Lawyer,6,
+CUST1977,F,56,Tamil Nadu,Lawyer,1,300
+CUST1978,M,32,KA,Lawyer,10,500
+CUST1979,M,35,KA,Lawyer,5,500
+CUST1980,F,45,Delhi,Teacher,6,
+CUST1981,Male,26,Maharashtra,,3,500
+CUST1982,Female,,delhi,Teacher,9,Three Hundred
+CUST1983,F,44,Tamil Nadu,Lawyer,5,
+CUST1984,f,32,maharastra,engineer,5,
+CUST1985,,22,TN,Lawyer,4,500
+CUST1986,F,,,Teacher,4,100
+CUST1987,F,50,Maharashtra,Doctor,1,200
+CUST1988,M,58,maharastra,,7,500
+CUST1989,F,54,Delhi,Teacher,10,500
+CUST1990,f,58,,,1,300
+CUST1991,f,53,Tamil Nadu,Lawyer,2,200
+CUST1992,F,59,KA,engineer,7,500
+CUST1993,M,58,Maharashtra,Doctor,7,500
+CUST1994,Female,46,Maharashtra,engineer,7,100
+CUST1995,,33,maharastra,Lawyer,3,300
+CUST1996,M,37,,Teacher,4,200
+CUST1997,F,50,maharastra,,,500
+CUST1998,Male,21,Maharashtra,Teacher,1,500
+CUST1999,Female,54,Maharashtra,engineer,1,500
+CUST2000,M,56,Maharashtra,Doctor,9,500
+CUST2001,f,44,KA,Artist,2,100
+CUST2002,f,55,Delhi,,9,300
+CUST2003,Female,18,maharastra,Teacher,7,Three Hundred
+CUST2004,Male,45,Tamil Nadu,Lawyer,2,Three Hundred
+CUST2005,M,47,delhi,Doctor,4,
+CUST2006,Female,40,Maharashtra,Teacher,10,500
+CUST2007,f,32,TN,Teacher,1,Three Hundred
+CUST2008,Female,27,Karnataka,Lawyer,7,500
+CUST2009,f,47,delhi,Doctor,7,500
+CUST2010,F,23,maharastra,Lawyer,4,300
+CUST2011,F,28,maharastra,Lawyer,5,500
+CUST2012,Female,56,maharastra,Doctor,4,100
+CUST2013,,43,Delhi,,9,500
+CUST2014,M,31,Tamil Nadu,engineer,5,300
+CUST2015,,,Maharashtra,,6,500
+CUST2016,,27,delhi,Doctor,6,Three Hundred
+CUST2017,F,36,,Engineer,,500
+CUST2018,,57,Tamil Nadu,Artist,1,500
+CUST2019,f,,Tamil Nadu,Doctor,1,500
+CUST1523,M,20,TN,Engineer,2,500
+CUST1602,,59,Karnataka,Engineer,9,Three Hundred
+CUST1526,f,53,TN,Artist,4,200
+CUST1031,Male,,Tamil Nadu,Engineer,10,
+CUST1616,F,52,Karnataka,Teacher,1,200
+CUST1585,M,56,Karnataka,engineer,6,500
+CUST1444,f,56,Tamil Nadu,,8,Three Hundred
+CUST1732,Female,51,Tamil Nadu,Lawyer,5,100
+CUST1076,F,46,TN,engineer,9,200
+CUST1411,F,18,Karnataka,,3,100
